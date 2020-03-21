@@ -246,7 +246,7 @@
  sh.10.a:0 "This is a great day!"
 ###############################
  wsg.3025.name:0 "Warship girl Giant Synchronous Track Station"
- wsg.3025.desc:0 "Huge synchronous orbital stations have orbited our planet, and a large number of industrial facilities will be relocated to the orbital stations to increase the output of our planet. At the same time, it will serve as a planetary defense base and super dock and berth, Enhance our military strength!"
+ wsg.3025.desc:0 "Huge synchronous orbital stations have orbited our planet, and a large number of industrial facilities will be relocated to the orbital stations to increase the output of our planet. At the same time, it will serve as a planetary defense base and super dock and berth, Enhance our military strength! \n\nUnlock the stellar base module§H orbital dock connection module§! "
  wsg.3025.a:0 "Impressed!"
  
  planet_wsg_station_modifier:0 "Giant Synchronous Orbit Station"

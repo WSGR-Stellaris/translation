@@ -34,16 +34,4 @@
  civic_BOSSAP_desc:0 "In a society advocating force, such as the Abyssal Fleet, there are very few non-combat ships like the boss who can get all the Abyssal respect."
  
  civic_CM:0 "The Obliteration Fleet"
- civic_CM_desc:0 "During the long drift, the Abyssal Fleet experienced several alien alien threats, and the fleet was almost destroyed. The Abyssal Fleet realized that only by completely eradicating all heretics that could threaten the Fleet, the right to survive in the Abyssal could be obtained. \n\n§R The popularity of the alien empire is approaching freezing point §! \n\n§R is unavailable: Icebreaking Ascension§! \n\n§Hcan use Total War: Silent§! \n\nIf you choose to purify Organic £ pop £ population will get £ sr_pantsu £ §Y pantsu§! "
- 
- origin_sh_cm:0 "The Obliteration Fleet"
- origin_sh_cm_desc:0 "During the long drift, the Abyssal Fleet experienced several alien alien threats, and the fleet was almost destroyed. The Abyssal Fleet realized that only by completely eradicating all heretics that could threaten the Fleet, the right to survive in the Abyssal could be obtained."
- origin_tooltip_sh_cm_effects:0 "§R The popularity of the alien empire is approaching freezing point §! \n\n§R is unavailable: Icebreaking Ascension§! \n\n§Hcan use Total War: Silent§! \n\nIf you choose to purify Organic £pop£ population will get £ sr_pantsu £ §Y pantsu§!"
-
- origin_wsg_ice_breaking:0 "Ice breaking"
- origin_wsg_ice_breaking_desc:0 "Not all of the abyssal warship girls have been expelled from their home port. There are still a small number of them who remain under our influence and integrate into our society"
- origin_tooltip_wsg_ice_breaking_effects:0 "Gain 6 additional abyssal warship girl §Y Abyssal Warship girl §!£pop£ population"
- 
- origin_wg_fallen_empire:0 "Galaxy Rover"
- origin_wg_fallen_empire_desc:0 "Warship girl fallen empire spent most of thier time shuttle back and forth between galaxies, constantly fleeing in exchange for a moment's rest."
- origin_wg_fe_effect:0 "This fallen empire will never do anything bad to you, she is a real loving mom, unless you installed some weird MOD that turns people into frog."
+ civic_CM_desc:0 "During the long drift, the Abyssal Fleet experienced several alien alien threats, and the fleet was almost destroyed. The Abyssal Fleet realized that only by completely eradicating all heretics that could threaten the Fleet, the right to survive in the Abyssal could be obtained. n \ n§R The popularity of the alien empire is approaching freezing point §! \n\n§R is unavailable: Icebreaking Ascension§! \n\n§Hcan use Total War: Silent§! \n\nIf you choose to purify Organic £ pop £ population will get £ sr_pantsu £ §Y pantsu§! "

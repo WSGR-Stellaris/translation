@@ -138,14 +138,14 @@
  PLANET_KILLER_OVO_ACTION:0 "All members Quncified"
  PLANET_KILLER_OVO_ACTION_DESC:0 "Projecting Quincy's stance on the planet, residents will enter the state of Quncification and can hardly do any work, but they will be happy."
  opinion_ovo_my_world:0 "our planet Quncified"
- MESSAGE_DESC_FOR_PLANET_KILLER_OVO:0 "Quinized by the light of Quincy"
+ MESSAGE_DESC_FOR_PLANET_KILLER_OVO:0 "Quinized by the light of Quincy, the performer is"
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_OVO:0 "Preparing for Quncification $ PLANET | Y $"
  
  PLANET_KILLER_SK:0 "Sun Destroyer"
  PLANET_KILLER_SK_DESC:0 "Super weapons in the ancient Abyssal use stars we can't understand to transform stars into black holes, and at the same time all planets in the galaxy will be destroyed."
  PLANET_KILLER_SK_ACTION:0 "End Star"
  PLANET_KILLER_SK_ACTION_DESC:0 "Using principles we can't understand convert stars into black holes and all planets in the galaxy will be destroyed."
- MESSAGE_DESC_FOR_PLANET_KILLER_SK:0 "Converted to a black hole"
+ MESSAGE_DESC_FOR_PLANET_KILLER_SK:0 "Converted to a black hole, the executor is"
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_SK:0 "Ready to end the star $ PLANET | Y $"
  
  sh.3027.name:0 "The End of the Galaxy"
@@ -268,7 +268,7 @@ sh_weapen_H:0 "SH-H Abyssal Carrier"
  
  PLANET_KILLER_PSH_ACTION:0 "Planet Abyssify"
  PLANET_KILLER_PSH_ACTION_DESC:0 "Transform our colony into a Abyssal planet."
- MESSAGE_DESC_FOR_PLANET_KILLER_PSH:0 "Abyssal"
+ MESSAGE_DESC_FOR_PLANET_KILLER_PSH:0 "Abyssal, the transformer is"
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_PSH:0 "Ready to Abyssify $ PLANET | Y $"
  
  our_planet_only:0 "Can only transform our colonies"
@@ -285,7 +285,7 @@ sh.3013.name:0 "Planet abyssify"
  
  PLANET_KILLER_CM_ACTION:0 "Silent"
  PLANET_KILLER_CM_ACTION_DESC:0 "Using nano robots to transform all the population on the planet into a silent population will become as simple and efficient as the Abyssal warship."
- MESSAGE_DESC_FOR_PLANET_KILLER_CM:0 "Silent"
+ MESSAGE_DESC_FOR_PLANET_KILLER_CM:0 "Silent, the silent is"
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_CM:0 "Ready to silent $ PLANET | Y $"
  
  no_cm_pops:0 "§R $TRIGGER_FAIL$ target has no population that can be silenced§!"
